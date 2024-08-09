@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7497355365801284552
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8335948900905428411, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_Color.b
+      value: 0.3215687
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948900905428411, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6448041
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669538, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: MaxHealth
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: fd27a185dc8ff7a48b5fe58c0c8c2b1d, type: 3}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: d067ffa0f43291945828afea1140f577, type: 3}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: 985016aa116431c438bca9777ece2ada, type: 3}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: 0672ed707c3a885429b2d30570c02cb1, type: 3}
+    - target: {fileID: 8335948901633669542, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: DeathClips.Array.data[4]
+      value: 
+      objectReference: {fileID: 8300000, guid: f9c9effad538bbf4794e4e0491ea5244, type: 3}
+    - target: {fileID: 8335948901633669543, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+      propertyPath: m_Name
+      value: Enemy Stationary
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8335948901633669471, guid: 0a22031b2534ff848997de118153edb4, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 0a22031b2534ff848997de118153edb4, type: 3}
